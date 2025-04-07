@@ -58,7 +58,7 @@ Each domain (e.g., `auth`, `quizzes`, `groups`) is a bounded context that is iso
 **Suggested Folder Structure:**
 
 ```
-skillhub-backend/
+backend/
 ├── apps/                     # Entry points (API Gateway, etc.)
 ├── libs/                     # Shared code (DTOs, utils, auth, etc.)
 └── services/
